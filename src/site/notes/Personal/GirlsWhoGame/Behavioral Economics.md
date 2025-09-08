@@ -2,9 +2,6 @@
 {"tags":["gamedesign"],"dg-publish":true,"permalink":"/personal/girls-who-game/behavioral-economics/","dgPassFrontmatter":true}
 ---
 
-
-# Behavioral Economics
-
 ## Definition
 
 Behavioral economics is a field that studies the effects of psychological, cognitive, emotional, cultural and social factors on the economic decisions of individuals and institutions and how those decisions vary from those implied by classical economic theory. It integrates insights from psychology, neuroscience, and economics to provide a more accurate and comprehensive understanding of human behavior in economic contexts.

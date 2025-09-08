@@ -2,9 +2,6 @@
 {"dg-publish":true,"permalink":"/personal/girls-who-game/ux-design-for-games/","dgPassFrontmatter":true}
 ---
 
-
-## UX Design for Games
-
 ### What is UX Design in Games?
 
 UX (User Experience) design in games focuses on creating a seamless, enjoyable, and intuitive experience for the player. It encompasses all aspects of the player's interaction with the game, from initial onboarding to long-term engagement. It's not just about usability; it's about crafting an experience that evokes positive emotions and keeps players coming back for more.

@@ -2,9 +2,6 @@
 {"dg-publish":true,"permalink":"/personal/girls-who-game/motivation-theory-in-relation-to-gaming/","dgPassFrontmatter":true}
 ---
 
-
-# Motivation Theory In Relation to Gaming
-
 ## Introduction
 
 Motivation is a key driver behind why people play games. Understanding motivation theories can help us analyze why certain games are engaging, and how game designers can create more compelling experiences. This note explores several key motivation theories and applies them to the context of gaming.

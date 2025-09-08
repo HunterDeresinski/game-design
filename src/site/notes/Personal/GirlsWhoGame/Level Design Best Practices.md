@@ -2,9 +2,6 @@
 {"dg-publish":true,"permalink":"/personal/girls-who-game/level-design-best-practices/","dgPassFrontmatter":true}
 ---
 
-
-# Level Design Best Practices
-
 This note serves as a living document for collecting and referencing best practices in level design.
 
 ## Core Principles

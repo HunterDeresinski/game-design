@@ -2,9 +2,6 @@
 {"dg-publish":true,"permalink":"/personal/girls-who-game/game-mechanics/","dgPassFrontmatter":true}
 ---
 
-
-# Game Mechanics
-
 Game mechanics are the rules, systems, and processes that govern how a game functions and how players interact with it. They are the building blocks of the gameplay experience. Understanding game mechanics is crucial for both playing and designing effective and engaging games.
 
 ## Key Concepts
