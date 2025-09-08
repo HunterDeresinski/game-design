@@ -4,7 +4,7 @@
 
 # General Game Dev Philosophies
 
-This note aims to collect and organize general game development philosophies, principles, and "rules of thumb" that can guide the development process. It's a living document that will evolve as I learn and experience more.
+This note aims to collect and organize general game development philosophies, principles, and "rules of thumb" that can guide the development process. It's a living document that will evolve as I learn and experience more. If you guy's have any questions or tips for additions feel free to let me know.
 
 ## Core Principles
 
