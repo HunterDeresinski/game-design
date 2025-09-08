@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal/girls-who-game/psychology-of-game-design/","tags":["gamedesign"]}
+{"tags":["gamedesign"],"dg-publish":true,"permalink":"/personal/girls-who-game/psychology-of-game-design/","dgPassFrontmatter":true}
 ---
 
 
@@ -68,4 +68,4 @@ This note explores the psychological principles that underpin effective game des
 
 *   [[Personal/GirlsWhoGame/Game Design Principles\|Game Design Principles]]
 *   [[Personal/GirlsWhoGame/Behavioral Economics\|Behavioral Economics]]
-*   [[Motivation Theory\|Motivation Theory]]
+*   [[Personal/GirlsWhoGame/Motivation Theory In Relation To Gaming\|Motivation Theory In Relation To Gaming]]
