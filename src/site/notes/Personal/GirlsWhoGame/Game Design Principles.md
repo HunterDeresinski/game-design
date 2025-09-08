@@ -1,9 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/personal/girls-who-game/game-design-principles/","tags":["gamedesign"]}
+{"tags":["gamedesign"],"dg-publish":true,"permalink":"/personal/girls-who-game/game-design-principles/","dgPassFrontmatter":true}
 ---
-
-
-# Game Design Principles
 
 This note will serve as a repository for various game design principles and concepts.
 

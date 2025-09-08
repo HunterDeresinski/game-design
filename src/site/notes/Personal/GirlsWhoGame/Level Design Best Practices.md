@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal/girls-who-game/level-design-best-practices/"}
+{"dg-publish":true,"permalink":"/personal/girls-who-game/level-design-best-practices/","dgPassFrontmatter":true}
 ---
 
 

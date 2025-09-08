@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal/girls-who-game/behavioral-economics/","tags":["gamedesign"]}
+{"tags":["gamedesign"],"dg-publish":true,"permalink":"/personal/girls-who-game/behavioral-economics/","dgPassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal/girls-who-game/motivation-theory-in-relation-to-gaming/"}
+{"dg-publish":true,"permalink":"/personal/girls-who-game/motivation-theory-in-relation-to-gaming/","dgPassFrontmatter":true}
 ---
 
 

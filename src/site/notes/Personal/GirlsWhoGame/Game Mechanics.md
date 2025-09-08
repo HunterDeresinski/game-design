@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal/girls-who-game/game-mechanics/"}
+{"dg-publish":true,"permalink":"/personal/girls-who-game/game-mechanics/","dgPassFrontmatter":true}
 ---
 
 

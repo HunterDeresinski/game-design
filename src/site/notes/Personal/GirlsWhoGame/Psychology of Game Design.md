@@ -2,9 +2,6 @@
 {"tags":["gamedesign"],"dg-publish":true,"permalink":"/personal/girls-who-game/psychology-of-game-design/","dgPassFrontmatter":true}
 ---
 
-
-# Psychology of Game Design
-
 This note explores the psychological principles that underpin effective game design, focusing on how understanding human motivation, cognition, and emotion can be leveraged to create engaging and rewarding experiences.
 
 ## Core Principles

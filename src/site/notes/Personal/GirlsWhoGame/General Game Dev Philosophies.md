@@ -1,9 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/personal/girls-who-game/general-game-dev-philosophies/","tags":["gamedesign","gardenEntry"]}
+{"tags":["gamedesign","gardenEntry"],"dg-publish":true,"dg-home":"true","permalink":"/personal/girls-who-game/general-game-dev-philosophies/","dgPassFrontmatter":true}
 ---
-
-
-# General Game Dev Philosophies
 
 This note aims to collect and organize general game development philosophies, principles, and "rules of thumb" that can guide the development process. It's a living document that will evolve as I learn and experience more.
 
@@ -59,7 +56,7 @@ This note aims to collect and organize general game development philosophies, pr
 
 *   [[Personal/GirlsWhoGame/Game Design Principles\|Game Design Principles]]
 *   [[Personal/GirlsWhoGame/Level Design Best Practices\|Level Design Best Practices]]
-*   [[UI/UX Design for Games\|UI/UX Design for Games]]
+*   [[Personal/GirlsWhoGame/UX Design for Games\|UX Design for Games]]
 
 ## Further Reading/Resources
 
